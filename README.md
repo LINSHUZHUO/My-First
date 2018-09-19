@@ -1,2 +1,3 @@
 # My-First
-我的第一个
+this is my first repository
+I love :money:
